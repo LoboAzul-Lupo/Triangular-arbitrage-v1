@@ -1,0 +1,9 @@
+node_modules/
+.env
+logs/*
+!logs/.gitkeep
+coverage/
+.DS_Store
+*.lognode_modules/
+.env
+config.json

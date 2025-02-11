@@ -1,0 +1,67 @@
+{
+  "timestamp": "2024-11-01T19:11:44.275Z",
+  "totalRoutes": 22,
+  "viableRoutes": 5,
+  "topRoutes": [
+    {
+      "path": "USDT -> USDC -> TRX",
+      "pairs": [
+        "USDC-USDT",
+        "TRX-USDC",
+        "TRX-USDT"
+      ],
+      "recommendedInvestment": "$50,000.00",
+      "estimatedProfit": "$64.86",
+      "effectiveRate": "0.1297%",
+      "volume": "$265,350.49"
+    },
+    {
+      "path": "USDT -> TUSD -> BTC",
+      "pairs": [
+        "TUSD-USDT",
+        "BTC-TUSD",
+        "BTC-USDT"
+      ],
+      "recommendedInvestment": "$100,000.00",
+      "estimatedProfit": "$25.41",
+      "effectiveRate": "0.0254%",
+      "volume": "$1,666,018.08"
+    },
+    {
+      "path": "USDT -> TUSD -> ETH",
+      "pairs": [
+        "TUSD-USDT",
+        "ETH-TUSD",
+        "ETH-USDT"
+      ],
+      "recommendedInvestment": "$50,000.00",
+      "estimatedProfit": "$24.91",
+      "effectiveRate": "0.0498%",
+      "volume": "$430,772.19"
+    },
+    {
+      "path": "USDT -> USDC -> ETH",
+      "pairs": [
+        "USDC-USDT",
+        "ETH-USDC",
+        "ETH-USDT"
+      ],
+      "recommendedInvestment": "$100,000.00",
+      "estimatedProfit": "$10.79",
+      "effectiveRate": "0.0108%",
+      "volume": "$149,428,236.59"
+    },
+    {
+      "path": "USDT -> USDC -> BTC",
+      "pairs": [
+        "USDC-USDT",
+        "BTC-USDC",
+        "BTC-USDT"
+      ],
+      "recommendedInvestment": "$100,000.00",
+      "estimatedProfit": "$10.02",
+      "effectiveRate": "0.0100%",
+      "volume": "$329,341,290.59"
+    }
+  ]
+}

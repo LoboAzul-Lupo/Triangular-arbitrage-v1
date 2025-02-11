@@ -1,0 +1,30 @@
+{
+  "name": "triangular-arbitrage-v1",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node src/index.js --dev",
+    "test": "jest"
+  },
+  "keywords": [
+    "arbitrage",
+    "trading",
+    "cryptocurrency"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "Sistema de arbitraje triangular - Versión de aprendizaje",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "events": "^3.3.0",
+    "winston": "^3.15.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

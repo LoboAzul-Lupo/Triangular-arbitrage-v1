@@ -1,0 +1,196 @@
+{
+  "timestamp": "2025-02-06T07:22:35.870Z",
+  "totalOpportunities": 37,
+  "topOpportunities": [
+    {
+      "symbol": "ZECUSDT",
+      "binancePrice": 32.13,
+      "huobiPrice": 31.66,
+      "spreadPercent": 1.4735852014422397,
+      "availableVolume": 2363533.31251,
+      "maxTradeVolume": 50000,
+      "direction": "Huobi->Binance",
+      "tradeUnits": 1567.6438313215235,
+      "grossProfit": 736.7926007211198,
+      "fees": {
+        "binance": 50,
+        "huobi": 100,
+        "total": 150
+      },
+      "netProfit": 586.7926007211198,
+      "roi": 1.1735852014422397,
+      "timestamp": 1738826555804
+    },
+    {
+      "symbol": "ZKUSDT",
+      "binancePrice": 0.1135,
+      "huobiPrice": 0.124,
+      "spreadPercent": 8.842105263157892,
+      "availableVolume": 87763.60618068631,
+      "maxTradeVolume": 4388.1803090343155,
+      "direction": "Binance->Huobi",
+      "tradeUnits": 36953.097339236345,
+      "grossProfit": 388.00752206198143,
+      "fees": {
+        "binance": 4.388180309034316,
+        "huobi": 8.776360618068631,
+        "total": 13.164540927102948
+      },
+      "netProfit": 374.84298113487847,
+      "roi": 8.542105263157891,
+      "timestamp": 1738826555804
+    },
+    {
+      "symbol": "RDNTUSDT",
+      "binancePrice": 0.0322,
+      "huobiPrice": 0.0479,
+      "spreadPercent": 39.20099875156055,
+      "availableVolume": 12161.05716167265,
+      "maxTradeVolume": 608.0528580836325,
+      "direction": "Binance->Huobi",
+      "tradeUnits": 15182.343522687452,
+      "grossProfit": 238.36279330619297,
+      "fees": {
+        "binance": 0.6080528580836325,
+        "huobi": 1.216105716167265,
+        "total": 1.8241585742508977
+      },
+      "netProfit": 236.53863473194207,
+      "roi": 38.900998751560536,
+      "timestamp": 1738826555804
+    },
+    {
+      "symbol": "GMTUSDT",
+      "binancePrice": 0.0679,
+      "huobiPrice": 0.0746,
+      "spreadPercent": 9.40350877192982,
+      "availableVolume": 40259.164783895365,
+      "maxTradeVolume": 2012.9582391947683,
+      "direction": "Binance->Huobi",
+      "tradeUnits": 28252.04546238271,
+      "grossProfit": 189.28870459796408,
+      "fees": {
+        "binance": 2.0129582391947682,
+        "huobi": 4.0259164783895365,
+        "total": 6.038874717584305
+      },
+      "netProfit": 183.2498298803798,
+      "roi": 9.103508771929821,
+      "timestamp": 1738826555804
+    },
+    {
+      "symbol": "NEXOUSDT",
+      "binancePrice": 1.373,
+      "huobiPrice": 1.3613,
+      "spreadPercent": 0.8557949018030241,
+      "availableVolume": 590955.9224881107,
+      "maxTradeVolume": 29547.796124405537,
+      "direction": "Huobi->Binance",
+      "tradeUnits": 21612.695113488306,
+      "grossProfit": 252.8685328278141,
+      "fees": {
+        "binance": 29.547796124405536,
+        "huobi": 59.09559224881107,
+        "total": 88.64338837321661
+      },
+      "netProfit": 164.2251444545975,
+      "roi": 0.555794901803024,
+      "timestamp": 1738826555804
+    },
+    {
+      "symbol": "KMDUSDT",
+      "binancePrice": 0.1944,
+      "huobiPrice": 0.183,
+      "spreadPercent": 6.041335453100157,
+      "availableVolume": 51405.22261550652,
+      "maxTradeVolume": 2570.2611307753264,
+      "direction": "Huobi->Binance",
+      "tradeUnits": 13620.885695682706,
+      "grossProfit": 155.27809693078277,
+      "fees": {
+        "binance": 2.5702611307753265,
+        "huobi": 5.140522261550653,
+        "total": 7.710783392325979
+      },
+      "netProfit": 147.5673135384568,
+      "roi": 5.741335453100157,
+      "timestamp": 1738826555804
+    },
+    {
+      "symbol": "DYDXUSDT",
+      "binancePrice": 0.7672,
+      "huobiPrice": 0.7715,
+      "spreadPercent": 0.5589133684278899,
+      "availableVolume": 2930416.6879516644,
+      "maxTradeVolume": 50000,
+      "direction": "Binance->Huobi",
+      "tradeUnits": 64989.926561382985,
+      "grossProfit": 279.4566842139449,
+      "fees": {
+        "binance": 50,
+        "huobi": 100,
+        "total": 150
+      },
+      "netProfit": 129.45668421394492,
+      "roi": 0.25891336842788987,
+      "timestamp": 1738826555804
+    },
+    {
+      "symbol": "GLMRUSDT",
+      "binancePrice": 0.1284,
+      "huobiPrice": 0.1352,
+      "spreadPercent": 5.159332321699546,
+      "availableVolume": 44803.62768568855,
+      "maxTradeVolume": 2240.1813842844276,
+      "direction": "Binance->Huobi",
+      "tradeUnits": 16996.823856482762,
+      "grossProfit": 115.5784022240828,
+      "fees": {
+        "binance": 2.2401813842844276,
+        "huobi": 4.480362768568855,
+        "total": 6.720544152853282
+      },
+      "netProfit": 108.85785807122951,
+      "roi": 4.859332321699546,
+      "timestamp": 1738826555804
+    },
+    {
+      "symbol": "FORTHUSDT",
+      "binancePrice": 4.716,
+      "huobiPrice": 4.7582,
+      "spreadPercent": 0.8908403875789036,
+      "availableVolume": 226642.9467640184,
+      "maxTradeVolume": 11332.14733820092,
+      "direction": "Binance->Huobi",
+      "tradeUnits": 2392.211973190543,
+      "grossProfit": 100.95134526864149,
+      "fees": {
+        "binance": 11.33214733820092,
+        "huobi": 22.66429467640184,
+        "total": 33.99644201460276
+      },
+      "netProfit": 66.95490325403873,
+      "roi": 0.5908403875789036,
+      "timestamp": 1738826555804
+    },
+    {
+      "symbol": "DCRUSDT",
+      "binancePrice": 11.54,
+      "huobiPrice": 11.4673,
+      "spreadPercent": 0.6319733302038858,
+      "availableVolume": 371881.6445714888,
+      "maxTradeVolume": 18594.08222857444,
+      "direction": "Huobi->Binance",
+      "tradeUnits": 1616.3636957465187,
+      "grossProfit": 117.50964068077081,
+      "fees": {
+        "binance": 18.59408222857444,
+        "huobi": 37.18816445714888,
+        "total": 55.78224668572332
+      },
+      "netProfit": 61.72739399504749,
+      "roi": 0.3319733302038859,
+      "timestamp": 1738826555804
+    }
+  ]
+}
